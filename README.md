@@ -9,3 +9,7 @@
 - divide-and-conquer (분할정복)
 - Recursive function (재귀함수)
 - Pseudocode (의사코드)
+- stack (스택)
+- Call stack (호출스택)
+- Push (푸시, 삽입)
+- Pop (팝, 읽은 후 삭제)
