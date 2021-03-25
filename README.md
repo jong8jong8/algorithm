@@ -13,3 +13,6 @@
 - Call stack (호출스택)
 - Push (푸시, 삽입)
 - Pop (팝, 읽은 후 삭제)
+- Quicksort (퀵정렬)
+- Euclid's algorithm (or The Euclidean algorithm) (유클리드 알고리즘)
+    - [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
