@@ -14,5 +14,6 @@
 - Push (푸시, 삽입)
 - Pop (팝, 읽은 후 삭제)
 - Quicksort (퀵정렬)
-- Euclid's algorithm (or The Euclidean algorithm) (유클리드 알고리즘)
+- Euclid's algorithm (or The Euclidean algorithm) (유클리드 알고리즘, 유클리드 호제법)
     - [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
+- Functional programming (함수형 프로그래밍)
