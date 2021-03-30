@@ -23,3 +23,5 @@
 - Paritioning (분할)
 - Inductive proof (귀납적 증명)
 - Inductive case (귀납 단계)
+- Merge sort (병합 정렬)
+- Constant (상수)
