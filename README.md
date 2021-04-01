@@ -11,7 +11,7 @@
 - divide-and-conquer (분할 정복)
 - Recursive function (재귀 함수)
 - Pseudocode (의사코드)
-- stack (스택)
+- Stack (스택)
 - Call stack (호출 스택)
 - Push (푸시, 삽입)
 - Pop (팝, 읽은 후 삭제)
@@ -25,3 +25,4 @@
 - Inductive case (귀납 단계)
 - Merge sort (병합 정렬)
 - Constant (상수)
+- Hash table (해시 테이블)
