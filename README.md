@@ -39,3 +39,7 @@
 - DNS resolution (DNS 확인 작업)
 - Cache (캐시)
 - Caching (캐싱)
+- Collision (충돌)
+- Load factor (사용율)
+- Resizing (리사이징)
+- SHA (Secure Hash Algorithm) function (SHA 함수)
