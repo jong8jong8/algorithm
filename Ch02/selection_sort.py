@@ -16,5 +16,5 @@ def selection_sort(array):
 
 
 my_array = [5, 1, 3, 2, 4]
-sorted_array = selection_sort(my_array)
-print(sorted_array)
+sorted_array = selection_sort(my_array[:])
+print(f"{my_array} -> {sorted_array}")
