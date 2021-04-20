@@ -69,7 +69,7 @@
 - weight (가중치)
 - weighted graph (가중 그래프)
 - unweighted graph (균일 그래프)
-- Dijkstra's algorithm (다익스트라 알고리즘)
+- Dijkstra's algorithm (다익스트라, 데이크스트라 알고리즘)
 - Cycle (사이클)
 - directed acyclic graph (DAG, 비순환 그래프)
 - Bellman-Ford algorithm (벨만-포드 알고리즘)
