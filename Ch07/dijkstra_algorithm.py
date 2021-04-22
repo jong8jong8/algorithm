@@ -22,14 +22,8 @@ def dijkstra(graph, costs, parents):
                 parents[n] = node
         processed.append(node)
         node = find_lowest_cost_node(costs, processed)
-    # lowest_cost_path = {}
-    # sorted_nodes = sorted(costs, key=costs.get)
-    # for n in sorted_nodes:
-    #     lowest_cost_path[n] = costs[n]
-    # return lowest_cost_path
 
-def show_path(costs):
-    pass
+
 
 # the graph
 graph = {}                  # {}
@@ -61,3 +55,4 @@ parents["fin"] = None       # { "a": "start", "b": "start", "fin": None }
 
 dijkstra(graph, costs, parents)
 print(costs)
+print(parents)

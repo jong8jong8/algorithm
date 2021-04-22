@@ -73,3 +73,6 @@
 - Cycle (사이클)
 - directed acyclic graph (DAG, 비순환 그래프)
 - Bellman-Ford algorithm (벨만-포드 알고리즘)
+- Greedy algorithm (탐욕 알고리즘)
+- NP-complete problem (NP-완전 문제)
+- Approximation algorithm (근사 알고리즘)

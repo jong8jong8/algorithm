@@ -22,37 +22,32 @@ def dijkstra(graph, costs, parents):
                 parents[n] = node
         processed.append(node)
         node = find_lowest_cost_node(costs, processed)
-    # lowest_cost_path = {}
-    # sorted_nodes = sorted(costs, key=costs.get)
-    # for n in sorted_nodes:
-    #     lowest_cost_path[n] = costs[n]
-    # return lowest_cost_path
 
 
 # the graph for Exercise 7.1 A
-graphA = {}
-graphA["start"] = {}
-graphA["start"]["a"] = 5
-graphA["start"]["b"] = 2
+graph = {}
+graph["start"] = {}
+graph["start"]["a"] = 5
+graph["start"]["b"] = 2
 
-graphA["a"] = {}
-graphA["a"]["c"] = 4
-graphA["a"]["d"] = 2
+graph["a"] = {}
+graph["a"]["c"] = 4
+graph["a"]["d"] = 2
 
-graphA["b"] = {}
-graphA["b"]["a"] = 8
-graphA["b"]["d"] = 7
+graph["b"] = {}
+graph["b"]["a"] = 8
+graph["b"]["d"] = 7
 
-graphA["c"] = {}
-graphA["c"]["d"] = 6
-graphA["c"]["fin"] = 3
+graph["c"] = {}
+graph["c"]["d"] = 6
+graph["c"]["fin"] = 3
 
-graphA["d"] = {}
-graphA["d"]["fin"] = 1
+graph["d"] = {}
+graph["d"]["fin"] = 1
 
-graphA["fin"] = {}
+graph["fin"] = {}
 
-# graphA = { 
+# graph = { 
 #   "start": { "a": 5, "b": 2 },
 #   "a": { "c": 4, "d": 2 },
 #   "b": { "a": 8, "d": 7 },
@@ -64,14 +59,14 @@ graphA["fin"] = {}
 
 # the costs table for Exercise 7.1 A
 infinity = float("inf")
-costsA = {}
-costsA["a"] = 5
-costsA["b"] = 2
-costsA["c"] = infinity
-costsA["d"] = infinity
-costsA["fin"] = infinity
+costs = {}
+costs["a"] = 5
+costs["b"] = 2
+costs["c"] = infinity
+costs["d"] = infinity
+costs["fin"] = infinity
 
-# costsA = {
+# costs = {
 #   "a": 5,
 #   "b": 2,
 #   "c": infinity,
@@ -81,14 +76,14 @@ costsA["fin"] = infinity
 
 
 # the parents table for Exercise 7.1 A
-parentsA = {}
-parentsA["a"] = "start"
-parentsA["b"] = "start"
-parentsA["c"] = None
-parentsA["d"] = None
-parentsA["fin"] = None 
+parents = {}
+parents["a"] = "start"
+parents["b"] = "start"
+parents["c"] = None
+parents["d"] = None
+parents["fin"] = None 
 
-# parentsA = {
+# parents = {
 #   "a": "start",
 #   "b": "start",
 #   "c": None,
@@ -97,5 +92,6 @@ parentsA["fin"] = None
 # }
 
 
-dijkstra(graphA, costsA, parentsA)
-print(costsA)
+dijkstra(graph, costs, parents)
+print(costs)
+print(parents)
