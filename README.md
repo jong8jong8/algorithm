@@ -76,3 +76,7 @@
 - Greedy algorithm (탐욕 알고리즘)
 - NP-complete problem (NP-완전 문제)
 - Approximation algorithm (근사 알고리즘)
+- The knapsack problem (배낭채우기 문제)
+- The set-covering problem (집합 덮개 문제)
+- Power set (멱집합)
+- Approximation algorithm (근사 알고리즘)
