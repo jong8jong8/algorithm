@@ -82,3 +82,5 @@
 - Approximation algorithm (근사 알고리즘)
 - Factorial function (펙토리얼 함수)
 - clique (파벌, 서로 아는 사람들의 집합)
+- dynamic programming (DP, 동적 계획법, 동적 프로그래밍)
+
