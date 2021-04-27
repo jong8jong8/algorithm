@@ -80,3 +80,5 @@
 - The set-covering problem (집합 덮개 문제)
 - Power set (멱집합)
 - Approximation algorithm (근사 알고리즘)
+- Factorial function (펙토리얼 함수)
+- clique (파벌, 서로 아는 사람들의 집합)
