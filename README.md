@@ -84,4 +84,5 @@
 - clique (파벌, 서로 아는 사람들의 집합)
 - dynamic programming (DP, 동적 계획법)
 - Feynman algorithm (파인만 알고리즘)
+- Levenshtein distance (레벤슈타인 거리)
 
