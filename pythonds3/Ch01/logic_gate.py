@@ -8,6 +8,21 @@ class LogicGate:
         self.output = self.perform_gate_logic()
         return self.output
 
+class UnaryGate(LogicGate):
+    def __init__(self, lbl):
+        LogicGate.__init__(self, lbl)
+        self.pin = None
+    def get_pin(self):
+        if self.pin == None:
+            return int(input(f"Enter pin input (0 or 1) for gate {self.get_label()}: "))
+        else:
+            return self.pin.get_from().get_output()
+    def set_next_pin(self, source):
+        if self.pin == None:
+            self.pin = source
+        else:
+            print("Cannot Connect: NO EMPTY PINS on this gate")
+
 class BinaryGate(LogicGate):
     def __init__(self, lbl):
         LogicGate.__init__(self, lbl)
@@ -33,6 +48,7 @@ class BinaryGate(LogicGate):
             else:
                 raise RuntimeError("Cannot Connect: NO EMPTY PINS on this gate")
 
+
 class AndGate(BinaryGate):
     def __init__(self, lbl):
         BinaryGate.__init__(self, lbl)
@@ -54,22 +70,6 @@ class OrGate(BinaryGate):
             return 1
         else:
             return 0
-
-class UnaryGate(LogicGate):
-    def __init__(self, lbl):
-        LogicGate.__init__(self, lbl)
-        self.pin = None
-    def get_pin(self):
-        if self.pin == None:
-            return int(input(f"Enter pin input (0 or 1) for gate {self.get_label()}: "))
-        else:
-            return self.pin.get_from().get_output()
-    def set_next_pin(self, source):
-        if self.pin == None:
-            self.pin = source
-        else:
-            print("Cannot Connect: NO EMPTY PINS on this gate")
-
 
 
 class NotGate(UnaryGate):
