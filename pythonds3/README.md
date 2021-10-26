@@ -1,17 +1,9 @@
 # [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html)
 
 ## 1. Introduction
-> Read
-### 1.1. Objectives
-> Read
-### 1.2 Getting Started
-> Read
-### 1.3 What Is Computer Science?
-- algorithm
-- computable
-- abstraction
-- interface
-- procedural abstraction
+### 1.1. [Objectives](./ch01-01.md)
+### 1.2 [Getting Started](./ch01-02.md)
+### 1.3 [What Is Computer Science?](./ch01-03.md)
 ### 1.4. What Is Programming?
 - programming
 - data type
