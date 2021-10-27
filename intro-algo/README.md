@@ -1,4 +1,7 @@
+# MIT Lecture
+- [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+
 # Introduction to Algorithms
-- Install [GitHub Math Display](https://chrome.google.com/webstore/detail/github-math-display/cgolaobglebjonjiblcjagnpmdmlgmda/related?hl=en) to see math expressions in your chrome browser.
+
 
 ## 
