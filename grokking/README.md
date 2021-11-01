@@ -7,9 +7,9 @@
 ### 1.3 [Big-O notation](./ch01/ch01-03.md)
 
 ## 2. Selection Sort
-### 2.1 How memory works
-### 2.2 Arrays and linked lists
-### 2.3 Selection Sort
+### 2.1 [How memory works](./ch02/ch02-01.md)
+### 2.2 [Arrays and linked lists](./ch02/ch02-02.md)
+### 2.3 [Selection Sort](./ch02/ch02-03.md)
 
 ## 3. Recursion
 ### 3.1 Recursion
