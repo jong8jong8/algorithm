@@ -12,7 +12,7 @@
 ### 2.3 [Selection Sort](./ch02/ch02-03.md)
 
 ## 3. Recursion
-### 3.1 Recursion
+### 3.1 [Recursion](./ch03/ch03-01.md)
 ### 3.2 Base case and recursive case
 ### 3.3 The stack
 
