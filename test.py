@@ -1,9 +1,9 @@
-def countdown(i):
-    if i <= 0:
-        return 0
-    else:
-        print(i)
-        countdown(i - 1)
-
-# recursive countdown test 
-countdown(5)
+def tail_factorial(n, accumulator=1):
+    if n == 0: 
+        return accumulator
+    else: 
+        return tail_factorial(n - 1, accumulator * n)
+        
+    
+# tail recursive factorial test
+print( tail_factorial(5) )
