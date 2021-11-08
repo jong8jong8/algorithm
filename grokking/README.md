@@ -13,8 +13,8 @@
 
 ## 3. Recursion
 ### 3.1 [Recursion](./ch03/ch03-01.md)
-### 3.2 Base case and recursive case
-### 3.3 The stack
+### 3.2 [Base case and recursive case](./ch03/ch03-02.md)
+### 3.3 [The stack](./ch03/ch03-03.md)
 
 ## 4. Quicksort
 ### 4.1 Divide & conquer
