@@ -17,8 +17,8 @@
 ### 3.3 [The stack](./ch03/ch03-03.md)
 
 ## 4. Quicksort
-### 4.1 Divide & conquer
-### 4.2 Big O notation revisited
+### 4.1 [Divide & conquer](./ch04/ch04-01.md)
+### 4.2 [Big O notation revisited](./ch04/ch04-02.md)
 
 ## 5. Hash Tables
 ### 5.1 Hash functions
