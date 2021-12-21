@@ -22,7 +22,7 @@
 ### 4.3 [Big O notation revisited](./ch04/ch04-03.md)
 
 ## 5. Hash Tables
-### 5.1 Hash functions
+### 5.1 [Hash functions](./ch05/ch05-01.md)
 ### 5.2 Use cases
 ### 5.3 Collisions
 ### 5.4 Performance
