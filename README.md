@@ -4,5 +4,5 @@
 
 # Algorithm Courses
 - [Grokking Algorithms](./grokking/README.md)
-- [Introduction to Algorithms](https://github.com/jong8jong8/algorithm/tree/main/intro-algo)
-- [Design and Analysis of Algorithms]()
+- [Introduction to Algorithms](./intro-algo/README.md)
+- [Design and Analysis of Algorithms](./intro-algo/README.md)
