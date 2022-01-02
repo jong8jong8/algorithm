@@ -5,4 +5,3 @@
 # Algorithm Courses
 - [Grokking Algorithms](./grokking/README.md)
 - [Introduction to Algorithms](./intro-algo/README.md)
-- [Design and Analysis of Algorithms](./intro-algo/README.md)
