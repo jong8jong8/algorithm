@@ -28,8 +28,8 @@
 ### 5.4 [Performance](./ch05/ch05-04.md)
 
 ## 6. Introduction to graphs
-### 6.1 What is a graph?
-### 6.2 Breadth-irst search
+### 6.1 [What is a graph?](./ch06/ch06-01.md)
+### 6.2 Breadth-first search
 ### 6.3 Implementing the graph
 ### 6.4 Implementing the algorithm
 
