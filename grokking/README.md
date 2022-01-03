@@ -23,9 +23,9 @@
 
 ## 5. Hash Tables
 ### 5.1 [Hash functions](./ch05/ch05-01.md)
-### 5.2 Use cases
-### 5.3 Collisions
-### 5.4 Performance
+### 5.2 [Use cases](./ch05/ch05-02.md)
+### 5.3 [Collisions](./ch05/ch05-03.md)
+### 5.4 [Performance](./ch05/ch05-04.md)
 
 ## 6. Introduction to graphs
 ### 6.1 What is a graph?
