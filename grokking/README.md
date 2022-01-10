@@ -30,7 +30,7 @@
 ## 6. Introduction to graphs
 ### 6.1 [Introduction to graphs](./ch06/ch06-01.md)
 ### 6.2 [What is a graph?](./ch06/ch06-02.md)
-### 6.3 Breadth-first search
+### 6.3 [Breadth-first search](./ch06/ch06-03.md)
 ### 6.4 Implementing the graph
 ### 6.5 Implementing the algorithm
 
