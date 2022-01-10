@@ -32,7 +32,7 @@
 ### 6.2 [What is a graph?](./ch06/ch06-02.md)
 ### 6.3 [Breadth-first search](./ch06/ch06-03.md)
 ### 6.4 [Implementing the graph](./ch06/ch06-04.md)
-### 6.5 Implementing the algorithm
+### 6.5 [Implementing the algorithm](./ch06/ch06-05.md)
 
 ## 7. Dijkstra's algorithm
 ### 7.1 Working with Dijkstra’s algorithm
