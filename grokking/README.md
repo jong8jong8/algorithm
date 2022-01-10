@@ -29,9 +29,10 @@
 
 ## 6. Introduction to graphs
 ### 6.1 [Introduction to graphs](./ch06/ch06-01.md)
-### 6.2 Breadth-first search
-### 6.3 Implementing the graph
-### 6.4 Implementing the algorithm
+### 6.2 [What is a graph?](./ch06/ch06-02.md)
+### 6.3 Breadth-first search
+### 6.4 Implementing the graph
+### 6.5 Implementing the algorithm
 
 ## 7. Dijkstra's algorithm
 ### 7.1 Working with Dijkstra’s algorithm
