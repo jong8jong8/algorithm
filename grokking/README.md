@@ -35,7 +35,7 @@
 ### 6.5 [Implementing the algorithm](./ch06/ch06-05.md)
 
 ## 7. Dijkstra's algorithm
-### 7.1 Working with Dijkstra’s algorithm
+### 7.1 [Working with Dijkstra’s algorithm](./ch07/ch07-01.md)
 ### 7.2 Terminology
 ### 7.3 Trading for a piano
 ### 7.4 Negative-weight edges
