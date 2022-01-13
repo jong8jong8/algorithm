@@ -42,10 +42,10 @@
 ### 7.5 [Implementation](./ch07/ch07-05.md)
 
 ## 8. Greedy Algorithms
-### 8.1 The classroom scheduling problem
-### 8.2 The knapsack problem
-### 8.3 The set-covering problem
-### 8.4 NP-complete problems
+### 8.1 [The classroom scheduling problem](./ch08/ch08-01.md)
+### 8.2 [The knapsack problem](./ch08/ch08-02.md)
+### 8.3 [The set-covering problem](./ch08/ch08-03.md)
+### 8.4 [NP-complete problems](./ch08/ch08-03.md)
 
 ## 9. Dynamic Programming
 ### 9.1 The knapsack problem
