@@ -37,7 +37,7 @@
 ## 7. Dijkstra's algorithm
 ### 7.1 [Working with Dijkstra’s algorithm](./ch07/ch07-01.md)
 ### 7.2 [Terminology](./ch07/ch07-02.md)
-### 7.3 Trading for a piano
+### 7.3 [Trading for a piano](./ch07/ch07-03.md)
 ### 7.4 Negative-weight edges
 ### 7.5 Implementation
 
