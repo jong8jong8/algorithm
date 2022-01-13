@@ -39,7 +39,7 @@
 ### 7.2 [Terminology](./ch07/ch07-02.md)
 ### 7.3 [Trading for a piano](./ch07/ch07-03.md)
 ### 7.4 [Negative-weight edges](./ch07/ch07-04.md)
-### 7.5 Implementation
+### 7.5 [Implementation](./ch07/ch07-05.md)
 
 ## 8. Greedy Algorithms
 ### 8.1 The classroom scheduling problem
