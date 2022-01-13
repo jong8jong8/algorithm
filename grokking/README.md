@@ -38,7 +38,7 @@
 ### 7.1 [Working with Dijkstra’s algorithm](./ch07/ch07-01.md)
 ### 7.2 [Terminology](./ch07/ch07-02.md)
 ### 7.3 [Trading for a piano](./ch07/ch07-03.md)
-### 7.4 Negative-weight edges
+### 7.4 [Negative-weight edges](./ch07/ch07-04.md)
 ### 7.5 Implementation
 
 ## 8. Greedy Algorithms
