@@ -45,7 +45,7 @@
 ### 8.1 [The classroom scheduling problem](./ch08/ch08-01.md)
 ### 8.2 [The knapsack problem](./ch08/ch08-02.md)
 ### 8.3 [The set-covering problem](./ch08/ch08-03.md)
-### 8.4 [NP-complete problems](./ch08/ch08-03.md)
+### 8.4 [NP-complete problems](./ch08/ch08-04.md)
 
 ## 9. Dynamic Programming
 ### 9.1 The knapsack problem
