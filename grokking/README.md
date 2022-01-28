@@ -48,7 +48,7 @@
 ### 8.4 [NP-complete problems](./ch08/ch08-04.md)
 
 ## 9. Dynamic Programming
-### 9.1 The knapsack problem
+### 9.1 [The knapsack problem](./ch09/ch09-01.md)
 ### 9.2 Knapsack problem FAQ
 ### 9.3 Longest common substring
 
