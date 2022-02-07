@@ -8,3 +8,16 @@
 
 
 ## I Foundations
+
+
+## II Sorting and Order Statistics
+
+## III Data Structures
+
+## IV Advanced Design and Analysis Techniques
+
+## V Advanced Data Structures
+
+## VI Graph Algorithms
+
+## VII Selected Topics
