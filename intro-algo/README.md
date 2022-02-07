@@ -8,7 +8,7 @@
 
 ## I Foundations
 ### 1 The Role of Algorithms in Computing
-#### 1.1 Algorithms
+#### 1.1 [Algorithms](./ch01/ch01-01.md)
 
 ## II Sorting and Order Statistics
 
