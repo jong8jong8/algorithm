@@ -24,8 +24,8 @@
 
 
 ## VIII Appendix: Mathematical Background
-### A
+### A Summations
 #### A.1 [Summation formulas and properties](./app/a/ch-a-01.md)
 #### A.2 [Bounding summations](./app/a/ch-a-02.md)
-### B
+### B Sets, Etc.
 #### B.1 [Sets](./app/b/ch-b-01.md)
