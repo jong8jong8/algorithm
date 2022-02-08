@@ -49,7 +49,7 @@
 
 ## 9. Dynamic Programming
 ### 9.1 [The knapsack problem](./ch09/ch09-01.md)
-### 9.2 Knapsack problem FAQ
+### 9.2 [Knapsack problem FAQ](./ch09/ch09-02.md)
 ### 9.3 Longest common substring
 
 ## 10. K-nearest Neighbors
