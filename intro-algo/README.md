@@ -24,5 +24,5 @@
 
 
 ## VIII Appendix: Mathematical Background
-### [Appendix A](./app/ch-a.md)
+### [Appendix A](./app/a/ch-a-01.md)
 
