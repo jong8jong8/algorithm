@@ -50,7 +50,7 @@
 ## 9. Dynamic Programming
 ### 9.1 [The knapsack problem](./ch09/ch09-01.md)
 ### 9.2 [Knapsack problem FAQ](./ch09/ch09-02.md)
-### 9.3 [Longest common substring](../ch09/ch09-03.md)
+### 9.3 [Longest common substring](./ch09/ch09-03.md)
 
 ## 10. K-nearest Neighbors
 ### 10.1 Classifying oranges vs. grapefruit
