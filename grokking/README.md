@@ -52,19 +52,3 @@
 ### 9.2 [Knapsack problem FAQ](./ch09/ch09-02.md)
 ### 9.3 [Longest common substring](./ch09/ch09-03.md)
 
-## 10. K-nearest Neighbors
-### 10.1 Classifying oranges vs. grapefruit
-### 10.2 Building a recommendations system
-### 10.3 Introduction to machine learning
-
-## 11. Where to go next
-### 11.1 Trees
-### 11.2 Inverted indexes
-### 11.3 The Fourier transform
-### 11.4 Parallel algorithms
-### 11.5 MapReduce
-### 11.6 Bloom ilters and HyperLogLog
-### 11.7 The SHA algorithms
-### 11.8 Locality-sensitive hashing
-### 11.9 Diffie-Hellman key exchange
-### 11.10 Linear programming
