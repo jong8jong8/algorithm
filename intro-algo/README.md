@@ -30,3 +30,4 @@
 #### A.2 [Bounding summations](./app/a/ch-a-02.md)
 ### B Sets, Etc.
 #### B.1 [Sets](./app/b/ch-b-01.md)
+#### B.2 [Relations](./app/b/ch-b-02.md)
