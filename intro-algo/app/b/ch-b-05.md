@@ -7,3 +7,5 @@
 ![](./fig-b-6.png)
 
 ![](./fig-b-7.png)
+
+![](./fig-b-8.png)
