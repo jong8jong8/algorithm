@@ -1,6 +1,6 @@
 # Grokking Algorithms
 - [Errata 오타](https://adit.io/errata.html)
-- [EBook](./)
+- [EBook (PDF)](./https://github.com/jong8jong8/algorithm/blob/main/grokking/Grokking%20Algorithms%20An%20Illustrated%20Guide%20for%20Programmers%20and%20Other%20Curious%20People%20by%20Aditya%20Bhargava%20(z-lib.org).pdf)
 
 ## 1. Introduction to Algorithms
 ### 1.1 [Introduction](./ch01/ch01-01.md)
