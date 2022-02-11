@@ -36,6 +36,7 @@
 #### B.5 [Trees](./app/b/ch-b-05.md)
 ### C Counting and Probability
 #### C.1 [Counting](./app/c/ch-c-01.md)
+#### C.2 [Probability](./app/c/ch-c-02.md)
 
 
 
