@@ -34,8 +34,8 @@
 #### B.3 [Functions](./app/b/ch-b-03.md)
 #### B.4 [Graphs](./app/b/ch-b-04.md)
 #### B.5 [Trees](./app/b/ch-b-05.md)
-
-
+### C Counting and Probability
+#### C.1 [Counting](./app/b/ch-c-01.md)
 
 
 
