@@ -32,6 +32,7 @@
 #### B.1 [Sets](./app/b/ch-b-01.md)
 #### B.2 [Relations](./app/b/ch-b-02.md)
 #### B.3 [Functions](./app/b/ch-b-03.md)
+#### B.4 [Graphs](./app/b/ch-b-04.md)
 
 
 
