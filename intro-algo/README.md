@@ -39,6 +39,7 @@
 #### C.1 [Counting](./app/c/ch-c-01.md)
 #### C.2 [Probability](./app/c/ch-c-02.md)
 #### C.3 [Discrete random variables](./app/c/ch-c-03.md)
+#### C.4 [The geometric and binomial distributions](./app/c/ch-c-04.md)
 
 
 
