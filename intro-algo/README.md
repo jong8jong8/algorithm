@@ -4,30 +4,9 @@
 - [Solution Site 1](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
 - [Solution Site 2](https://walkccc.me/CLRS/)
 
-##
+###
 - [MIT 6.042J Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 - [MIT 6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/index.htm)
-  - [Lecture 1: Introduction](./lecture-01.md)
-  - [Lecture 2: Data Structures](./lecture-02.md)
-  - [Lecture 3: Sorting](./lecture-03.md)
-  - [Lecture 4: Hashing](./lecture-04.md)
-  - [Lecture 5: Linear Sorting](./lecture-05.md)
-  - [Lecture 6: Binary Trees, Part 1](./lecture-06.md)
-  - [Lecture 7: Binary Trees, Part 2: AVL](./lecture-07.md)
-  - [Lecture 8: Binary Heaps](./lecture-08.md)
-  - [Lecture 9: Breadth-First Search](./lecture-09.md)
-  - [Lecture 10: Depth-First Search](./lecture-10.md)
-  - [Lecture 11: Weighted Shortest Paths](./lecture-11.md)
-  - [Lecture 12: Bellman-Ford](./lecture-12.md)
-  - [Lecture 13: Dijkstra's Algorithm](./lecture-13.md)
-  - [Lecture 14: Johnson's Algorithm](./lecture-14.md)
-  - [Lecture 15: Dynamic Programming, Part 1: Recursive Algorithms](./lecture-15.md)
-  - [Lecture 16: Dynamic Programming, Part 2: Subproblems](./lecture-16.md)
-  - [Lecture 17: Dynamic Programming, Part 3: APSP, Parens, Piano](./lecture-17.md)
-  - [Lecture 18: Dynamic Programming, Part 4: Pseudopolynomials](./lecture-18.md)
-  - [Lecture 19: Complexity](./lecture-19.md)
-  - [Lecture 20: Course Review](./lecture-20.md)
-  - [Lecture 21: Algorithms—Next Steps](./lecture-21.md)
-  
+
 
 
