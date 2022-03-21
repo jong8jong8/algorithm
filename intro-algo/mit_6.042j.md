@@ -1,4 +1,4 @@
-# MIT 6.042J Mathematics for Computer Science
+# MIT 6.042J Mathematics for Computer Science (이산수학)
 
 ## Unit 1: Proofs (증명)
 
