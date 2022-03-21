@@ -7,4 +7,6 @@
 #### Introduction
 > Read
 
+#### Intro to Proofs: Part 1
+> Watch video
 
