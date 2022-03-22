@@ -7,6 +7,30 @@
 #### Introduction
 > Read
 
+- 🎯 `geogebra` practice
+
+```
+# Proposition 1.1.3.
+
+p(n)=n^(2)+n+41
+a=p(0)
+b=IsPrime(p(39))
+c=IsPrime(p(40))
+```
+
+- 🎯 `geogebra` practice
+
+```
+# Proposition 1.1.4.
+
+a=95800
+b=217519
+c=414560
+d=422481
+e=a^(4)+b^(4)+c^(4)≟d^(4)
+```
+
+
 #### Intro to Proofs: Part 1
 > Watch video
 
