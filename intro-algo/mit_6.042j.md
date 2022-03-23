@@ -34,3 +34,25 @@ e=a^(4)+b^(4)+c^(4)≟d^(4)
 #### Intro to Proofs: Part 1
 > Watch video
 
+#### Intro to Proofs: Part 2
+> Watch video
+
+#### Exercise | Definitions to Know for Proofs
+> Homework
+
+#### Exercise | Modus Ponens
+> Homework
+
+
+### 1.2 Proof Methods 
+
+#### Introduction
+> Read
+
+
+
+
+
+
+
+
