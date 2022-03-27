@@ -23,7 +23,9 @@ c=414560
 d=422481
 e=a^(4)+b^(4)+c^(4)≟d^(4)
 ```
-#### Intro to Proofs: Part 1
+#### Lecture Video | Intro to Proofs Part 1
+> Watch video
+#### Lecture Video | Intro to Proofs Part 2
 > Watch video
 #### Exercise | Definitions to Know for Proofs
 > Workout
@@ -32,7 +34,7 @@ e=a^(4)+b^(4)+c^(4)≟d^(4)
 ### 1.2 Proof Methods 
 #### Introduction
 > Read
-#### Proof by Contradiction
+#### Lecture Video | Proof by Contradiction
 > Watch video
 - 🎯 `geogebra` practice
 ```
@@ -40,6 +42,20 @@ a=nroot(1332,3)
 ```
 #### Exercise | Proof by Contradiction Practice
 > Workout
+#### Lecture Video | Proof By Cases
+> Watch video
+#### Exercise | When to Prove by Cases
+> Workout
+#### Exercise | Friends and Strangers
+> Workout
+#### Exercise | A Bogus Proof by Cases
+> Workout
+#### Exercise | A Bogus Proof by Contradiction
+> Workout
+### 1.3 Well Ordering Principle
+#### Introduction
+> Read
+
 
 
 
