@@ -26,7 +26,7 @@ d=422481
 e=a^(4)+b^(4)+c^(4)≟d^(4)
 ```
 
-
+- [Modus Ponens (전건긍정)](https://ko.wikipedia.org/wiki/%EC%A0%84%EA%B1%B4_%EA%B8%8D%EC%A0%95)
 
 
 
