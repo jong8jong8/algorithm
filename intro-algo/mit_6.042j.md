@@ -28,8 +28,6 @@ e=a^(4)+b^(4)+c^(4)≟d^(4)
 ```
 > View the **Section 1.1 In-Class Questions (PDF)**
 
-- [Solution](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/in-class-questions/MIT6_042JS15_cp1.pdf)
-
 
 #### Lecture Video | Intro to Proofs Part 1
 > Watch video
@@ -55,7 +53,6 @@ e=a^(4)+b^(4)+c^(4)≟d^(4)
 
 > View the **Section 1.2 In-Class Questions (PDF)**
 
-- [Solution](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/in-class-questions/MIT6_042JS15_cp2.pdf)
 
 #### Lecture Video | Proof by Contradiction
 > Watch video
@@ -92,8 +89,6 @@ a=nroot(1332,3)
 > Read **Chapter 2.1–2.3 (PDF)**
 
 > View the **Section 1.3 In-Class Questions (PDF)**
-
-- [Solution](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/in-class-questions/MIT6_042JS15_cp3.pdf)
 
 
 
