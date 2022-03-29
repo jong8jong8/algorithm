@@ -27,46 +27,67 @@ d=422481
 e=a^(4)+b^(4)+c^(4)≟d^(4)
 ```
 > View the **Section 1.1 In-Class Questions (PDF)**
-- [Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec01_sol.pdf) 
-
-
-
-
-
-
+- [Old Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec01_sol.pdf) 
 
 #### Lecture Video | Intro to Proofs Part 1
 > Watch video
+
 #### Lecture Video | Intro to Proofs Part 2
 > Watch video
+
 #### Exercise | Definitions to Know for Proofs
 > Workout
+
 #### Exercise | Modus Ponens
 > Workout
+
+
+
+
+
+
 ### 1.2 Proof Methods 
+
 #### Introduction
-> Read
+> Read **Chapter 1.7–1.9 (PDF)**
+> View the **Section 1.2 In-Class Questions (PDF)**
+- [Old Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec02_sol.pdf)
+
 #### Lecture Video | Proof by Contradiction
 > Watch video
+
 - 🎯 `geogebra` practice
 ```
 a=nroot(1332,3)
 ```
+
 #### Exercise | Proof by Contradiction Practice
 > Workout
+
 #### Lecture Video | Proof By Cases
 > Watch video
+
 #### Exercise | When to Prove by Cases
 > Workout
+
 #### Exercise | Friends and Strangers
 > Workout
+
 #### Exercise | A Bogus Proof by Cases
 > Workout
+
 #### Exercise | A Bogus Proof by Contradiction
 > Workout
+
+
+
+
 ### 1.3 Well Ordering Principle
+
 #### Introduction
-> Read
+> Read **Chapter 2.1–2.3 (PDF)**
+> View the **Section 1.3 In-Class Questions (PDF)**
+- [Old Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec03_sol.pdf)
 
 
 
