@@ -1,9 +1,12 @@
 # MIT 6.042J Mathematics for Computer Science (이산수학)
 
 ## Unit 1: Proofs (증명)
+
 ### 1.1 Introduction to Proofs
+
 #### Introduction
 > Read **Chapter 1.1–1.6 (PDF)**
+
 - 🎯 `geogebra` practice
 ```
 # Proposition 1.1.3.
@@ -23,6 +26,15 @@ c=414560
 d=422481
 e=a^(4)+b^(4)+c^(4)≟d^(4)
 ```
+> View the **Section 1.1 In-Class Questions (PDF)**
+- [Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec01_sol.pdf) 
+
+
+
+
+
+
+
 #### Lecture Video | Intro to Proofs Part 1
 > Watch video
 #### Lecture Video | Intro to Proofs Part 2
