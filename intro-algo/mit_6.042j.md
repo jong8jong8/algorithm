@@ -27,7 +27,6 @@ d=422481
 e=a^(4)+b^(4)+c^(4)≟d^(4)
 ```
 > View the **Section 1.1 In-Class Questions (PDF)**
-- [Old Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec01_sol.pdf) 
 
 #### Lecture Video | Intro to Proofs Part 1
 > Watch video
@@ -52,7 +51,7 @@ e=a^(4)+b^(4)+c^(4)≟d^(4)
 > Read **Chapter 1.7–1.9 (PDF)**
 
 > View the **Section 1.2 In-Class Questions (PDF)**
-- [Old Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec02_sol.pdf)
+
 
 #### Lecture Video | Proof by Contradiction
 > Watch video
@@ -90,7 +89,7 @@ a=nroot(1332,3)
 
 > View the **Section 1.3 In-Class Questions (PDF)**
 
-- [Old Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec03_sol.pdf)
+
 
 
 
