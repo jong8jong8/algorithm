@@ -87,6 +87,7 @@ a=nroot(1332,3)
 #### Introduction
 > Read **Chapter 2.1–2.3 (PDF)**
 > View the **Section 1.3 In-Class Questions (PDF)**
+
 - [Old Solution (2010)](https://dspace.mit.edu/bitstream/handle/1721.1/104426/6-042j-spring-2010/contents/lecture-notes/MIT6_042JS10_lec03_sol.pdf)
 
 
