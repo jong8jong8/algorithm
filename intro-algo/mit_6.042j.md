@@ -3,7 +3,7 @@
 ## Unit 1: Proofs (증명)
 ### 1.1 Introduction to Proofs
 #### Introduction
-> Read
+> Read Chapter 1.1–1.6 (PDF) 
 - 🎯 `geogebra` practice
 ```
 # Proposition 1.1.3.
