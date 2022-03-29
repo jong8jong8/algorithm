@@ -39,6 +39,7 @@ e=a^(4)+b^(4)+c^(4)≟d^(4)
 a=nroot(1332,3)
 ```
 
+- [귀류법 (Proof by contradiction)](https://ko.wikipedia.org/wiki/%EA%B7%80%EB%A5%98%EB%B2%95)
 
 
 
